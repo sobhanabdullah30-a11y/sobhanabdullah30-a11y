@@ -1,104 +1,383 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=220&section=header&text=Subhan%20Abdullah&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20C%23%20Developer%20%7C%20Robotics%20%26%20Intelligent%20Systems%20Student&descAlignY=55&descSize=18" width="100%"/>
+# 👋 Hi, I'm Subhan Abdullah
 
-<a href="https://github.com/sobhanabdullah30-a11y">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+ASP.NET+Core+%2B+React;Building+scalable+web+apps+with+C%23+%26+SQL;Currently+studying+Robotics+%26+Intelligent+Systems;Open+to+Full-Stack+Developer+roles" alt="Typing SVG" />
-</a>
+### Full-Stack Developer • C# / ASP.NET Core • React • SQL Server
 
-<br/>
+<p>
+  <a href="https://github.com/sobhanabdullah30-a11y">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sobhan-abdullah-b196953a7">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sobhanabdullah30@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=googlechrome&logoColor=black)
+<img src="https://komarev.com/ghpvc/?username=sobhanabdullah30-a11y&label=PROFILE+VIEWS&color=0EA5E9&style=for-the-badge" alt="Profile Views"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sobhanabdullah30-a11y&label=Profile%20Views&color=7dd3fc&style=flat)
-![Followers](https://img.shields.io/github/followers/sobhanabdullah30-a11y?label=Followers&style=flat&color=7dd3fc)
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Building+Modern+Full-Stack+Web+Applications;ASP.NET+Core+%7C+React+%7C+SQL+Server;C%23+%7C+REST+APIs+%7C+Database+Design;Turning+Business+Problems+Into+Software+Solutions" alt="Typing SVG"/>
 
 </div>
 
-<br/>
+---
 
-## 👋 Who I Am
+## 🚀 About Me
 
-```typescript
-const subhanAbdullah = {
-  title: "Full Stack Developer & Robotics and Intelligent Systems Student at Bahria University",
-  stack: ["C#", "ASP.NET Core", "React JS", "MS SQL Server"],
-  launchedProjects: ["laravelproject — Courier Management Website"],
-  certifications: [
-    "Certificate of Proficiency in Information Systems Management (CPISM)",
-    "Diploma in Information Systems Management (DISM)"
-  ],
-  status: "Open to Work",
-  openTo: "Full-Stack Developer opportunities"
-};
+I'm a **Full-Stack Developer** and **Robotics & Intelligent Systems student at Bahria University**, focused on building practical, scalable, and user-friendly software applications.
+
+I enjoy working across the entire development lifecycle — from **database design and backend APIs to frontend interfaces and deployment**.
+
+My current primary stack is:
+
+```text
+C# → ASP.NET Core → REST APIs → SQL Server → React
 ```
 
-<br/>
+I also have hands-on experience with **PHP, Laravel, MySQL, JavaScript, and TypeScript**.
 
-## 🚀 Featured Projects
+### What I care about
 
-### 📦 laravelproject
+* 🧩 Writing clean and maintainable code
+* 🏗️ Designing scalable application architectures
+* 🔐 Building secure authentication and authorization systems
+* 🗄️ Designing efficient relational databases
+* 🔌 Developing RESTful APIs
+* 🎨 Creating responsive user interfaces
+* 📊 Building business management systems
+* 🚀 Turning real-world requirements into working software
 
-Courier Management Website built with Laravel, featuring dedicated Admin, Agent, and User panels.
+---
 
-![Stars](https://img.shields.io/github/stars/sobhanabdullah30-a11y/laravelproject?style=for-the-badge&color=7dd3fc)
-![Forks](https://img.shields.io/github/forks/sobhanabdullah30-a11y/laravelproject?style=for-the-badge&color=7dd3fc)
-![Last Commit](https://img.shields.io/github/last-commit/sobhanabdullah30-a11y/laravelproject?style=for-the-badge&color=7dd3fc)
+## 💼 What I Build
 
-| Layer | Technology |
-|---|---|
-| Backend | Laravel (PHP) |
-| Panels | Admin, Agent, User |
-| Database | MySQL |
+<table>
+<tr>
+<td width="50%">
 
-🔗 [Code](https://github.com/sobhanabdullah30-a11y/laravelproject)
+### 🌐 Full-Stack Applications
 
-<br/>
+Business applications with:
 
-## 🛠️ Tech Stack
+* Authentication
+* Role-based access
+* Admin dashboards
+* CRUD operations
+* REST APIs
+* Database integration
 
-**Languages**
+</td>
 
-![Skills](https://skillicons.dev/icons?i=cs,php,ts,js)
+<td width="50%">
 
-**Frontend**
+### 🗄️ Backend & APIs
 
-![Skills](https://skillicons.dev/icons?i=react,angular)
+Backend systems using:
 
-**Backend / Infra**
+* C#
+* ASP.NET Core
+* Laravel
+* REST APIs
+* SQL Server
+* MySQL
 
-![Skills](https://skillicons.dev/icons?i=dotnet,laravel)
+</td>
+</tr>
 
-**Databases**
+<tr>
+<td width="50%">
 
-![Skills](https://skillicons.dev/icons?i=mysql,mssql)
+### 📊 Business Systems
 
-**Dev Tools**
+Applications for:
 
-![Skills](https://skillicons.dev/icons?i=github,vscode,git)
+* Courier management
+* Customer management
+* Reporting
+* Billing
+* Inventory
+* Business workflows
 
-<br/>
+</td>
 
-## 📊 GitHub Stats
+<td width="50%">
+
+### ⚡ Modern Frontend
+
+Responsive interfaces using:
+
+* React
+* JavaScript
+* TypeScript
+* HTML
+* CSS
+* Bootstrap
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Technology Stack
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel" alt="Backend Technologies"/>
+</p>
+
+**C# • ASP.NET Core • .NET • PHP • Laravel**
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css,bootstrap" alt="Frontend Technologies"/>
+</p>
+
+**React • Angular • JavaScript • TypeScript • HTML5 • CSS3 • Bootstrap**
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+<img src="https://skillicons.dev/icons?i=mssql" alt="SQL Server"/>
+</p>
+
+**Microsoft SQL Server • MySQL**
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Development Tools"/>
+</p>
+
+**Git • GitHub • VS Code • Visual Studio**
+
+---
+
+# 🚀 Featured Project
+
+## 📦 Courier Management System
+
+A full-featured **Courier Management System** developed to digitize courier operations and replace manual record keeping with a centralized web-based system.
+
+### 🎯 Problem
+
+Traditional courier businesses often rely on manual records for customer information, shipment tracking, billing, and reporting.
+
+This system provides a centralized platform where administrators, agents, and customers can manage and track courier operations.
+
+### ✨ Key Features
+
+```text
+👨‍💼 Admin Management
+├── Admin Authentication
+├── Courier Management
+├── Customer Management
+├── Agent Management
+├── Branch Management
+└── Dashboard & Reports
+
+🧑‍💼 Agent Management
+├── Agent Authentication
+├── Create Shipments
+├── Manage Courier Records
+├── Branch Operations
+└── Branch Reports
+
+👤 Customer Management
+├── Registration & Login
+├── Consignment Tracking
+├── Shipment Status
+└── Printable Tracking Details
+
+📦 Shipment Management
+├── Sender Information
+├── Receiver Information
+├── Courier Type
+├── Delivery Date
+├── Billing
+├── Status Tracking
+└── Reports
+```
+
+### 🧰 Technologies
+
+| Category        | Technology                      |
+| --------------- | ------------------------------- |
+| Backend         | Laravel                         |
+| Language        | PHP                             |
+| Frontend        | Blade / HTML / CSS / JavaScript |
+| Database        | MySQL                           |
+| Authentication  | Laravel Authentication          |
+| Reports         | XLSX / PDF                      |
+| Version Control | Git / GitHub                    |
 
 <div align="center">
 
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sobhanabdullah30-a11y&label=Public%20Repos&query=$.public_repos&color=7dd3fc&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/sobhanabdullah30-a11y?style=for-the-badge&color=7dd3fc&label=Followers)
-![Account Age](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sobhanabdullah30-a11y&label=GitHub%20Member%20Since&query=$.created_at&color=7dd3fc&style=for-the-badge)
+<a href="https://github.com/sobhanabdullah30-a11y/laravelproject">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/github/stars/sobhanabdullah30-a11y/laravelproject?style=flat-square&logo=github&color=0EA5E9" alt="Stars"/>
+<img src="https://img.shields.io/github/forks/sobhanabdullah30-a11y/laravelproject?style=flat-square&logo=github&color=0EA5E9" alt="Forks"/>
+<img src="https://img.shields.io/github/last-commit/sobhanabdullah30-a11y/laravelproject?style=flat-square&color=0EA5E9" alt="Last Commit"/>
 
 </div>
 
-<br/>
+---
 
-## 🤝 Connect With Me
+# 📚 Currently Learning
+
+I'm actively strengthening my professional Full-Stack development skills.
+
+```text
+ASP.NET Core
+     ↓
+RESTful APIs
+     ↓
+Entity Framework Core
+     ↓
+Microsoft SQL Server
+     ↓
+React
+     ↓
+Authentication & Authorization
+     ↓
+Full-Stack Architecture
+     ↓
+Production-Ready Applications
+```
+
+### Current Focus
+
+* 🔵 ASP.NET Core
+* 🔵 C#
+* 🔵 Entity Framework Core
+* 🔵 Microsoft SQL Server
+* 🔵 React
+* 🔵 REST API Development
+* 🔵 Authentication & Authorization
+* 🔵 Software Architecture
+
+---
+
+# 🎯 2026 Developer Goals
+
+| Goal                            | Status         |
+| ------------------------------- | -------------- |
+| Master C#                       | 🔄 In Progress |
+| ASP.NET Core                    | 🔄 In Progress |
+| REST API Development            | 🔄 In Progress |
+| SQL Server                      | 🔄 In Progress |
+| React                           | 🔄 In Progress |
+| Entity Framework Core           | 🔄 In Progress |
+| Build Production-Level Projects | 🎯 Goal        |
+| Improve System Design           | 🎯 Goal        |
+| Contribute to Open Source       | 🎯 Goal        |
+| Get Full-Stack Developer Role   | 🎯 Goal        |
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobhan-abdullah-b196953a7)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/juniorsobhan?s=11)
-[![Email](https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge&logo=gmail&logoColor=black)](mailto:sobhanabdullah30@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=sobhanabdullah30-a11y&show_icons=true&hide_border=true&theme=transparent&title_color=0EA5E9&text_color=7DD3FC&icon_color=0EA5E9&rank_icon=github" height="180" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhanabdullah30-a11y&layout=compact&hide_border=true&theme=transparent&title_color=0EA5E9&text_color=7DD3FC" height="180" alt="Top Languages"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer" width="100%"/>
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sobhanabdullah30-a11y&theme=transparent&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=7DD3FC&dates=7DD3FC" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sobhanabdullah30-a11y&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+# 🎓 Education & Certifications
+
+### 🎓 Bahria University
+
+**Robotics & Intelligent Systems**
+
+Currently developing skills across:
+
+* Software Development
+* Programming
+* Digital Logic
+* Database Systems
+* Computer Systems
+* Robotics
+* Intelligent Systems
+
+### 📜 Certifications
+
+**Certificate of Proficiency in Information Systems Management (CPISM)**
+
+**Diploma in Information Systems Management (DISM)**
+
+---
+
+# 💡 Development Philosophy
+
+> **Learn → Build → Break → Debug → Improve → Repeat**
+
+I believe the best way to become a better developer is not just to watch tutorials, but to **build real applications, solve problems, debug failures, and continuously improve the code**.
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### I'm open to Full-Stack Developer opportunities.
+
+Whether you're looking for a developer, want to collaborate on a project, or simply want to connect, feel free to reach out.
+
+<br>
+
+<a href="https://www.linkedin.com/in/sobhan-abdullah-b196953a7">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:sobhanabdullah30@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://x.com/juniorsobhan">
+<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:7DD3FC&height=120&section=footer" width="100%" alt="Footer"/>
+
+</div>
