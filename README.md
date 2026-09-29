@@ -43,7 +43,7 @@ My work sits at the intersection of dependable backend engineering and polished 
 An immersive, full-stack platform for discovering stories, characters, media, releases and events across eight fandom universes.
 
 <a href="https://fan-hub-plus-two.vercel.app">
-  <img src="https://raw.githubusercontent.com/sobhanabdullah30-a11y/Fan-Hub-Plus/main/docs/images/fan-hub-home.png" width="100%" alt="Fan Hub Plus product interface" />
+  <img src="assets/fan-hub-plus-showcase.png" width="100%" alt="Fan Hub Plus featured interface" />
 </a>
 
 <br><br>
