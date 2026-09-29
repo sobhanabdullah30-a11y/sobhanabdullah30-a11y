@@ -12,8 +12,6 @@ I build secure, responsive web applications—from database design and REST APIs
   <a href="mailto:sobhanabdullah30@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=sobhanabdullah30-a11y&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" alt="Profile views" />
-
 </div>
 
 ---
