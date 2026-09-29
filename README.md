@@ -186,16 +186,6 @@ Delivery      Git · GitHub Actions · Vercel · CI/CD · Production config
 
 ---
 
-## 📊 GitHub Snapshot
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=sobhanabdullah30-a11y&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=38BDF8&text_color=64748B&rank_icon=github" alt="Subhan Abdullah's GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhanabdullah30-a11y&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=64748B&langs_count=6" alt="Subhan Abdullah's most used languages" />
-
-</div>
-
-> GitHub language statistics describe public repository composition; they are not a complete measure of engineering ability.
 
 ---
 
