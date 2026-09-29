@@ -1,170 +1,224 @@
 <div align="center">
 
-# Hi, I'm Subhan Abdullah 👋
+<img src="assets/software-engineer-hero.svg" width="100%" alt="Subhan Abdullah — Full-Stack Software Engineer" />
 
-### Full-Stack Developer · ASP.NET Core · React · SQL Server
+<br>
 
-I build secure, responsive web applications—from database design and REST APIs to polished interfaces and production deployment.
+<a href="https://fan-hub-plus-two.vercel.app"><img src="https://img.shields.io/badge/EXPLORE_LIVE_PROJECT-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore live project" /></a>
+<a href="https://github.com/sobhanabdullah30-a11y/Fan-Hub-Plus"><img src="https://img.shields.io/badge/FEATURED_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Featured source" /></a>
+<a href="https://www.linkedin.com/in/sobhan-abdullah-b196953a7"><img src="https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
-<p>
-  <a href="https://fan-hub-plus-two.vercel.app"><img src="https://img.shields.io/badge/Live_Portfolio_Project-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Fan Hub Plus" /></a>
-  <a href="https://www.linkedin.com/in/sobhan-abdullah-b196953a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sobhanabdullah30@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+### `C#` · `.NET 8` · `React 19` · `SQL Server` · `REST APIs` · `CI/CD`
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 The Engineer Behind the Code
 
-I'm a Full-Stack Developer and Robotics & Intelligent Systems student at Bahria University. I enjoy translating real requirements into software that is maintainable, accessible and ready to deploy.
+I'm **Subhan Abdullah**, a Full-Stack Developer and Robotics & Intelligent Systems student at Bahria University. I turn real requirements into software with a clear path from **data model → API contract → interface → deployment**.
 
-- 🔭 Currently building production-oriented applications with **ASP.NET Core and React**
-- 🧱 Interested in **clean architecture, REST APIs and relational database design**
-- 🔐 Focused on **authentication, authorization and secure configuration**
-- 🎨 Comfortable creating **responsive, accessible user experiences**
-- 🚀 Experienced with **GitHub Actions, Vercel and full-stack deployment workflows**
-- 💼 Open to **full-stack development opportunities and collaborations**
+My work sits at the intersection of dependable backend engineering and polished frontend experiences. I care about code that is **secure, maintainable, accessible and understandable** long after the first release.
+
+| What I build | How I build it |
+| --- | --- |
+| **Production-ready web applications** | Layered architecture and explicit contracts |
+| **Secure APIs and account systems** | JWT sessions, authorization and validation |
+| **Responsive product interfaces** | React, accessible UI and purposeful motion |
+| **Reliable data-driven features** | EF Core, SQL Server and relational modeling |
+| **Repeatable delivery workflows** | Git, GitHub Actions, testing and deployment |
+
+<br>
+
+<img src="assets/engineering-flow.svg" width="100%" alt="Animated full-stack engineering workflow" />
 
 ---
 
-## Featured Project — Fan Hub Plus
+## 🚀 Featured Build — Fan Hub Plus
 
 <div align="center">
 
-### A full-stack fandom discovery and community platform
+### **Not just a fan. Part of a universe.**
 
-[![Live App](https://img.shields.io/badge/OPEN_LIVE_APP-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://fan-hub-plus-two.vercel.app)
-[![Source Code](https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sobhanabdullah30-a11y/Fan-Hub-Plus)
+An immersive, full-stack platform for discovering stories, characters, media, releases and events across eight fandom universes.
+
+<a href="https://fan-hub-plus-two.vercel.app">
+  <img src="https://raw.githubusercontent.com/sobhanabdullah30-a11y/Fan-Hub-Plus/main/docs/images/fan-hub-home.png" width="100%" alt="Fan Hub Plus product interface" />
+</a>
+
+<br><br>
+
+[![Live App](https://img.shields.io/badge/OPEN_LIVE_EXPERIENCE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://fan-hub-plus-two.vercel.app)
+[![Repository](https://img.shields.io/badge/EXPLORE_THE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sobhanabdullah30-a11y/Fan-Hub-Plus)
 [![CI](https://github.com/sobhanabdullah30-a11y/Fan-Hub-Plus/actions/workflows/ci.yml/badge.svg)](https://github.com/sobhanabdullah30-a11y/Fan-Hub-Plus/actions/workflows/ci.yml)
 
 </div>
 
-Fan Hub Plus is an immersive platform for discovering stories, characters, media, releases and events across eight fandom universes. It combines a polished React experience with a layered ASP.NET Core API and SQL Server persistence.
+### Engineering highlights
 
-### What it demonstrates
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Public discovery with search, filtering and rich content detail pages
-- Secure accounts with email verification, JWT sessions and role-based access
-- Member bookmarks, private notes, ratings, feedback and moderated submissions
-- Administration for content, categories, users, FAQs and analytics
-- Responsive theming, reduced-motion support and accessibility-focused UI
-- Automated frontend and backend checks through GitHub Actions
-- Production frontend deployment on Vercel with API proxy integration
+#### 🎨 Product Experience
 
-### Architecture
+- Eight rich fandom universes
+- Search, filters and editorial discovery
+- Responsive themes and accent controls
+- Reduced-motion and accessibility support
+- Content, media, events and release tracking
 
-```text
-React 19 + Vite 6
-        │
-        ▼
-ASP.NET Core 8 REST API
-        │
-        ▼
-Application & Infrastructure Layers
-        │
-        ▼
-Entity Framework Core 8 + SQL Server
-```
+</td>
+<td width="50%" valign="top">
 
-| Area | Technology |
+#### 🔐 Identity & Community
+
+- Verified member accounts
+- JWT-based secure sessions
+- Bookmarks, private notes and ratings
+- Feedback and moderated submissions
+- Role-based member and admin experiences
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚙️ Backend Engineering
+
+- Layered **ASP.NET Core 8** architecture
+- RESTful controllers and OpenAPI docs
+- Repository and service contracts
+- EF Core persistence with SQL Server
+- Validation, rate limiting and secure secrets
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚢 Quality & Delivery
+
+- Frontend and backend verification suites
+- ESLint and Prettier quality gates
+- GitHub Actions continuous integration
+- Vercel production frontend
+- Hosted API with same-origin proxy routing
+
+</td>
+</tr>
+</table>
+
+### System stack
+
+| Layer | Implementation |
 | --- | --- |
-| Frontend | React 19, Vite 6, JavaScript, responsive CSS, Lucide React |
-| Backend | C#, ASP.NET Core 8, REST APIs, Swagger/OpenAPI |
-| Security | JWT authentication, role-based authorization, password hashing, rate limiting |
-| Data | Entity Framework Core 8, Microsoft SQL Server |
-| Quality | Automated contract checks, ESLint, Prettier, GitHub Actions |
-| Deployment | Vercel frontend, hosted ASP.NET Core API |
+| **Interface** | React 19, Vite 6, JavaScript, responsive CSS, Lucide React |
+| **API** | C#, ASP.NET Core 8, REST, Swagger/OpenAPI |
+| **Application** | DTOs, validation, AutoMapper, repository and service contracts |
+| **Security** | JWT, role-based authorization, password hashing, session revocation |
+| **Persistence** | Entity Framework Core 8 and Microsoft SQL Server |
+| **Delivery** | GitHub Actions, Vercel and hosted ASP.NET Core infrastructure |
 
 ---
 
-## Technical Toolkit
+## 🧰 Engineering Toolkit
 
 <div align="center">
 
-### Core Stack
+### Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,react,vite,js,ts,html,css" alt="C Sharp, .NET, React, Vite, JavaScript, TypeScript, HTML and CSS" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,vite,js,ts,html,css&perline=8" alt="C Sharp, .NET, React, Vite, JavaScript, TypeScript, HTML and CSS" />
 
-### Data & Tools
+### Workflow & Platforms
 
-<img src="https://skillicons.dev/icons?i=azure,git,github,githubactions,vercel,vscode,visualstudio,postman" alt="Azure, Git, GitHub, GitHub Actions, Vercel, VS Code, Visual Studio and Postman" />
+<img src="https://skillicons.dev/icons?i=azure,git,github,githubactions,vercel,vscode,visualstudio,postman&perline=8" alt="Azure, Git, GitHub, GitHub Actions, Vercel, VS Code, Visual Studio and Postman" />
 
 </div>
 
-| Focus | Skills |
-| --- | --- |
-| Backend engineering | C#, ASP.NET Core, REST APIs, Entity Framework Core, layered architecture |
-| Frontend engineering | React, Vite, JavaScript, TypeScript, responsive UI, accessibility |
-| Data | Microsoft SQL Server, relational modeling, migrations, query design |
-| Security | JWT, authentication, authorization, secret management, validation |
-| Delivery | Git, GitHub, CI/CD, Vercel, production configuration |
-
----
-
-## How I Work
-
 ```text
-Understand the problem
-        ↓
-Design the data and API contracts
-        ↓
-Build a clean, responsive interface
-        ↓
-Test critical behavior and security boundaries
-        ↓
-Deploy, observe and improve
+Backend       C# · ASP.NET Core · REST APIs · EF Core · OpenAPI
+Frontend      React · Vite · JavaScript · TypeScript · Responsive UI
+Data          SQL Server · Relational modeling · Migrations · Query design
+Security      JWT · Authentication · Authorization · Validation · Secrets
+Delivery      Git · GitHub Actions · Vercel · CI/CD · Production config
 ```
 
-I value readable code, clear documentation, small verifiable changes and solutions that remain understandable after the first release.
+---
+
+## 🧠 Engineering Principles
+
+> **Strong software is more than working code—it is a clear set of decisions that another engineer can understand, verify and improve.**
+
+- **Start with the problem** — understand the user and the system boundary before choosing technology.
+- **Design contracts deliberately** — keep data models, APIs and UI states explicit.
+- **Secure the defaults** — validate input, protect secrets and authorize every sensitive action.
+- **Verify critical behavior** — test ownership, permissions, failure states and integration boundaries.
+- **Ship in observable steps** — use source control, CI and deployment checks to reduce uncertainty.
+- **Keep improving** — treat feedback and production learning as part of engineering.
 
 ---
 
-## Current Focus
+## 🎯 Current Direction
 
-- Advanced ASP.NET Core and Entity Framework Core patterns
-- React application architecture and reusable UI systems
-- API security, testing and performance
-- Production deployment and CI/CD workflows
-- System design for scalable full-stack applications
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Building deeper expertise
+
+- Advanced ASP.NET Core patterns
+- Entity Framework Core performance
+- React application architecture
+- API security and automated testing
+
+</td>
+<td width="50%" valign="top">
+
+### Growing toward
+
+- Scalable system design
+- Cloud-ready delivery workflows
+- Reusable product design systems
+- High-quality engineering collaboration
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Snapshot
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=sobhanabdullah30-a11y&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=A78BFA&text_color=64748B&rank_icon=github" alt="Subhan's GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhanabdullah30-a11y&layout=compact&hide_border=true&theme=transparent&title_color=7C3AED&text_color=64748B&langs_count=6" alt="Subhan's most used languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=sobhanabdullah30-a11y&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=38BDF8&text_color=64748B&rank_icon=github" alt="Subhan Abdullah's GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhanabdullah30-a11y&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=64748B&langs_count=6" alt="Subhan Abdullah's most used languages" />
 
 </div>
 
----
-
-## Education
-
-**Bahria University**<br>
-Robotics & Intelligent Systems
-
-**Professional studies**<br>
-Certificate of Proficiency in Information Systems Management (CPISM)<br>
-Diploma in Information Systems Management (DISM)
+> GitHub language statistics describe public repository composition; they are not a complete measure of engineering ability.
 
 ---
 
-## Let's Connect
+## 🎓 Education & Professional Learning
 
-I'm interested in full-stack roles, software projects and collaborations where thoughtful engineering can create real value.
+**Bahria University** — Robotics & Intelligent Systems<br>
+Building foundations across software development, intelligent systems, computer systems and engineering problem-solving.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sobhan-abdullah-b196953a7"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="mailto:sobhanabdullah30@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
-  <a href="https://x.com/juniorsobhan"><img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" /></a>
-</p>
+**Certificate of Proficiency in Information Systems Management (CPISM)**<br>
+**Diploma in Information Systems Management (DISM)**
+
+---
+
+## 🤝 Let's Build Something Valuable
+
+I'm open to **full-stack development roles, software projects and thoughtful technical collaborations**.
 
 <div align="center">
 
-### Build with purpose. Ship with confidence. Keep improving.
+<a href="mailto:sobhanabdullah30@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Subhan" /></a>
+<a href="https://www.linkedin.com/in/sobhan-abdullah-b196953a7"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Subhan on LinkedIn" /></a>
+<a href="https://x.com/juniorsobhan"><img src="https://img.shields.io/badge/FOLLOW_ON_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow Subhan on X" /></a>
+
+### **Design with intent · Build with discipline · Ship with confidence**
 
 </div>
