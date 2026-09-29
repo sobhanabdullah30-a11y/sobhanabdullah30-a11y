@@ -50,7 +50,7 @@ An immersive, full-stack platform for discovering stories, characters, media, re
 
 [![Live App](https://img.shields.io/badge/OPEN_LIVE_EXPERIENCE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://fan-hub-plus-two.vercel.app)
 [![Repository](https://img.shields.io/badge/EXPLORE_THE_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sobhanabdullah30-a11y/Fan-Hub-Plus)
-[![CI](https://github.com/sobhanabdullah30-a11y/Fan-Hub-Plus/actions/workflows/ci.yml/badge.svg)](https://github.com/sobhanabdullah30-a11y/Fan-Hub-Plus/actions/workflows/ci.yml)
+[![CI status](https://img.shields.io/github/actions/workflow/status/sobhanabdullah30-a11y/Fan-Hub-Plus/ci.yml?branch=main&style=for-the-badge&logo=github&logoColor=white&label=CI)](https://github.com/sobhanabdullah30-a11y/Fan-Hub-Plus/actions/workflows/ci.yml)
 
 </div>
 
